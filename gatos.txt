@@ -1,1 +1,2 @@
 San Tomás de Torquemada, edad = 124 años
+San Tomás de Torquemada, color azul
